@@ -18,6 +18,10 @@ function App() {
       </div>
       <h1>Vite + React</h1>
       <h2>Hi there I am priyanshu kundu studying at ucd</h2>
+      <h2>Hi there I am priyanshu kundu studying at ucd</h2>
+      <h2>Hi there I am priyanshu kundu studying at ucd</h2>
+      <h2>Hi there I am priyanshu kundu studying at ucd</h2>
+      <h2>Hi there I am priyanshu kundu studying at ucd</h2>
       <div className="card">
         <button onClick={() => setCount((count) => count + 1)}>
           count is {count}
